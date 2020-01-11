@@ -1,3 +1,36 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, sans-serif;
+}
+
+.page-header {
+	font-size: 0.875rem;
+	font-weight: 800;
+	color: #222;
+	margin-bottom: 64px;
+}
+
+.p-header-1 {
+	margin-top: 64px;
+	margin-bottom: 20px;
+	color: #666666;
+	font-size: 26px;
+}
+
+.p-header-2 {
+	font-size: 16px;
+	color: #333333;
+}
+
+.page-img {
+	margin-bottom: 24px;
+	width: 100%
+}
+
+p {
+	margin-bottom: 24px;
+	font-size: 16px;
+}
+
 .gallery-container {
 	margin-top: 25px;
 	margin-bottom: 25px;
